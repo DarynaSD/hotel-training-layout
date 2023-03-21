@@ -1,0 +1,18 @@
+:root {
+    --hero-bg-color: #C9D6E9;
+    --primary-bg-color: #B1BED0;
+    --footer-bg-color: #B1BED0;
+    --secondary-bg-color: #F6FCFA;
+    --h1-color: #3D4550;
+    --h2-color: #353637;
+    --main-text-color: #959595;
+    --primary-buttton-color: #597193;
+    --secondary-buttton-color: #889CB9;
+
+
+
+}
+
+.hero-bg {
+    background-color: var(--hero-bg-color);
+}
